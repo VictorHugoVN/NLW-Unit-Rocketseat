@@ -35,6 +35,10 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 
 Nessa aplicação vamos utilizar banco de dados relacional (SQL). Para ambiente de desenvolvimento seguiremos com o HyperSQL.
 
+Diagrama ERD
+![erd](https://github.com/VictorHugoVN/NLW-Unit-Rocketseat/assets/120648417/82b0b497-f6fc-4608-8d4e-2f9556059303)
+
+
 
 Estrutura do banco (SQL)
 
