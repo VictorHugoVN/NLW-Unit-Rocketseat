@@ -48,5 +48,9 @@ public class EventService {
                 .toLowerCase();
     }
 
+    public List<Event> getEvents(){
+        return this.eventRepository.findAll();
+    }
+
 
 }
