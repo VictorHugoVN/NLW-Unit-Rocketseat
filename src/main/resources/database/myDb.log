@@ -1,0 +1,6 @@
+/*C2*/SET SCHEMA PUBLIC
+SET SCHEMA "PUBLIC"
+INSERT INTO EVENTS VALUES('52492649-3fb4-4375-90d2-da142b237780','Rocketseat NLW Unite 3.0','Aprenda v\u00e1rias tecnologias','rocketseat-nlw-unite-30',2)
+COMMIT
+INSERT INTO ATTENDEES VALUES('99b01dfb-0767-4cc5-9b56-efde48eb3fe4','Victor Hugo Vieira','Victor@gmail.com','52492649-3fb4-4375-90d2-da142b237780','2024-04-05 14:48:20.650288')
+COMMIT
